@@ -14,7 +14,7 @@
 
 ## 📱 Live Demo
 
-> 🔗 **[lim-pro.vercel.app](https://lim-pro.vercel.app)**
+> 🔗 **[lim-pro.vercel.app](https://lim-pro-v3.vercel.app/)**
 > Open on your phone and tap **Add to Home Screen** for the full PWA experience.
 
 ---
